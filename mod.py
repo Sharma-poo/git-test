@@ -1,2 +1,5 @@
-x=lambda x:x%y
+y=int(input("numbers:"))
+z=int(input("number:"))
+x=lambda x:z%y
+print("the result is:", x)
 
