@@ -4,5 +4,6 @@ def sub():
     res=1000+sub
     print("result :", res)
 
+print("calling function:")
 sub()
 
