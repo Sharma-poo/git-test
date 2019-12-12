@@ -7,4 +7,4 @@ def sub():
 print("calling function:")
 sub()
 print("function executed")
-
+print("function ended")
